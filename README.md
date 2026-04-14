@@ -1,1 +1,1 @@
-# Associate-Data-Analyst-in-SQL-Study-DataCamp
+# Associate-Data-Analyst-in-Tableau
